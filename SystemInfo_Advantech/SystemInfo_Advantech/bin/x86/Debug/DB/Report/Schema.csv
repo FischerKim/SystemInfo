@@ -1,0 +1,2 @@
+DATETIME,Vcore,Vcore_min,Vcore_max,ThreeV,ThreeV_min,ThreeV_max,FiveV,FiveV_min,FiveV_max,TwelveV,TwelveV_min,TwelveV_max,FiveVStandby,FiveVStandby_min,FiveVStandby_max,Temperature_CPU,Temperature_CPU_min,Temperature_CPU_max,Temperature_System,Temperature_System_min,Temperature_System_max,Fan_CPU,Fan_CPU_min,Fan_CPU_max,Fan_System,Fan_System_min,Fan_System_max
+STRING,DOUBLE,DOUBLE,DOUBLE,DOUBLE,DOUBLE,DOUBLE,DOUBLE,DOUBLE,DOUBLE,DOUBLE,DOUBLE,DOUBLE,DOUBLE,DOUBLE,DOUBLE,DOUBLE,DOUBLE,DOUBLE,DOUBLE,DOUBLE,DOUBLE,DOUBLE,DOUBLE,DOUBLE,DOUBLE,DOUBLE,DOUBLE
